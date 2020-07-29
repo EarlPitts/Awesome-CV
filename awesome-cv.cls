@@ -82,7 +82,7 @@
 \RequirePackage{parskip}
 % Needed to deal hyperlink
 \RequirePackage[hidelinks,unicode]{hyperref}
-\hypersetup{%
+\hypersetup{
   pdftitle={},
   pdfauthor={},
   pdfsubject={},
